@@ -1,1 +1,0 @@
-/home/juan/.emacs.d/
